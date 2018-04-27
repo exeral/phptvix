@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MovieInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GUID />
+  <ProviderName />
+  <Template>Razor 720p</Template>
+  <FolderName>Diversion</FolderName>
+  <TitleDirectory>T:\Movie\Diversion</TitleDirectory>
+  <FolderNameClean>Diversion</FolderNameClean>
+  <CoverLinkFront />
+  <Link />
+  <MediaInfo>
+    <Video>
+      <VideoStream>
+        <Format>AVC</Format>
+        <Duration />
+        <Aspect>1.778</Aspect>
+        <AspectString>16:9</AspectString>
+        <Width>1920</Width>
+        <Height>1080</Height>
+        <Resolution>1080</Resolution>
+        <Codec>V_MPEG4/ISO/AVC</Codec>
+        <ScanType>Progressive</ScanType>
+        <Standard />
+        <FPS>23.976</FPS>
+        <BitRate>28.5 Mbps</BitRate>
+        <BitDepth>8 bits</BitDepth>
+      </VideoStream>
+    </Video>
+    <Audio>
+      <AudioStream>
+        <Format>DTS</Format>
+        <Codec>DTS-HD</Codec>
+        <Channels>8</Channels>
+        <Language>fr</Language>
+        <BitRate>1 597 Kbps</BitRate>
+        <BitDepth>16 bits</BitDepth>
+        <SamplingRate>48.0 KHz</SamplingRate>
+        <FormatProfile>MA</FormatProfile>
+      </AudioStream>
+      <AudioStream>
+        <Format>DTS</Format>
+        <Codec>DTS-HD</Codec>
+        <Channels>8</Channels>
+        <Language>en</Language>
+        <BitRate>1 597 Kbps</BitRate>
+        <BitDepth>24 bits</BitDepth>
+        <SamplingRate>48.0 KHz</SamplingRate>
+        <FormatProfile>MA</FormatProfile>
+      </AudioStream>
+    </Audio>
+    <Text>
+      <TextStream>
+        <Language>fr</Language>
+      </TextStream>
+      <TextStream>
+        <Language>fr</Language>
+      </TextStream>
+      <TextStream>
+        <Language>en</Language>
+      </TextStream>
+    </Text>
+    <FileName>T:\Movie\Diversion\Diversion.2015.MULTI.VFF.1080P.BLURAY.REMUX.AVC.DTS-HD.MA.7.1.ONLY.mkv</FileName>
+    <GeneralFormat>Matroska</GeneralFormat>
+    <GeneralDuration />
+  </MediaInfo>
+  <Title>Diversion</Title>
+  <OriginalTitle>Diversion</OriginalTitle>
+  <Description>La relation entre un arnaqueur professionnel et une apprentie criminelle vient perturber les affaires de chacun, quand ils se re ...</Description>
+  <Plot>La relation entre un arnaqueur professionnel et une apprentie criminelle vient perturber les affaires de chacun, quand ils se recroisent quelques années après leur première rencontre.</Plot>
+  <Year>2015</Year>
+  <Runtime>104</Runtime>
+  <Genres>
+    <string>Thriller</string>
+    <string>Romance</string>
+    <string>Comédie</string>
+  </Genres>
+  <IMDBLink />
+  <IMDBRating />
+  <Rating>6.6</Rating>
+  <Certification />
+  <MediaFormats>AVC</MediaFormats>
+  <SoundFormats>DTS71</SoundFormats>
+  <Resolutions>1080P</Resolutions>
+  <Actors>
+    <string>Will Smith</string>
+    <string>Margot Robbie</string>
+    <string>Rodrigo Santoro</string>
+  </Actors>
+  <Directors>
+    <string>John Requa</string>
+  </Directors>
+  <Covers />
+  <Countries>
+    <string>Américain</string>
+  </Countries>
+</MovieInfo>
